@@ -172,6 +172,9 @@ pairs from the demonstration data. This is meant to illustrate the
 data-loading → training → checkpoint pipeline, not to produce a policy that
 can reliably solve the task.
 
+
+#### [Note: The instructions below in this step don't work since they refer to a non-existent file. I cloned the Diffusion Policy repo into the cabinet_door_project directory and added the missing yaml. However, I recommend just ignoring the instructions here since you'll still probably run into a bunch of dependency errors when trying to run the code, and I couldn't get meaningful results after finally getting it to run. Instead, you can try to implement the model yourself over the starter code, which is what I'm attempting as well, or you can maybe look into the other suggested solutions.]
+
 For a policy that actually works, use one of the official training repos:
 
 ```bash
